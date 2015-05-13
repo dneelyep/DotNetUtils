@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="BoundedString.cs" />
     <Compile Include="DataStructures\TreeNode.cs" />
+    <Compile Include="Extensions\ObjectExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
